@@ -1,0 +1,33 @@
+Im Folgenden wird der Aufbau der Holzfarm beschrieben. Folgende Variabeln sind enthalten: C, T. C steht für
+die Position der Turtle und T steht für die Position eines Saplings/Baumes.
+
+Ein Strich, egal, ob vertikal, oder horizontal, bedeutet ein Block in der "wirklichkeit" (spielwelt von Mine_Craft).
+Die Striche, dienen nur als orientierung und geben an, in welchen Abständen, die Bäume gesetzt werden müssen.
+
+Farmaufbau:
+
+     T
+     |
+     |
+     |
+     |
+     |
+  |  |
+  |  |
+  |  |
+  |  |
+T |  | | T
+----------
+   C
+---------
+T |  |  T
+  |  |
+  |  |
+  |  |
+  |  |
+  T  |
+     |
+     | 
+     |
+     |
+     T
